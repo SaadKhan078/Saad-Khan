@@ -1,0 +1,8 @@
+{
+  "name": "Copy of SK Web Tech",
+  "description": "Professional US-style digital agency portfolio for SK Web Tech featuring web development, design services, and AI demonstrations.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
